@@ -1,7 +1,7 @@
 import React, { Component } from 'react'
 
 const searchBarStyle = {
-    width: '80%',
+    width: '100%',
     marginTop: '5%'
 }
 

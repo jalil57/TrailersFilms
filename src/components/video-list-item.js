@@ -3,7 +3,7 @@ import React, { Component } from 'react';
 const IMAGE_BASE_URL = "https://image.tmdb.org/t/p/w500/";
 
 const videoListItemTitleStyle = {
-    width: '150px',
+    width: '200px',
     margin: 'auto'
 }
 
@@ -17,7 +17,8 @@ const videoListItemImgStyle = {
 
 const videoListItemStyle = {
     border: '1px solid #f5f5f5',
-    display: 'flex'
+    display: 'flex',
+    marginLeft: '15%'
 }
 
 class VideoListItem extends Component {

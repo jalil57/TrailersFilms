@@ -3,8 +3,8 @@ import React, { Component } from 'react'
 const BASE_URL="https://www.youtube.com/embed/";
 
 const videoStyle = {
-    width: '80%',
-    height: '400px',
+    width: '900px',
+    height: '600px',
     marginTop: '5%'
 }
 
